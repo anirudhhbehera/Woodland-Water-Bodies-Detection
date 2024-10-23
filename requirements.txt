@@ -1,3 +1,14 @@
+flask
+flask-cors
+deepforest
+torch
+Pillow
+pyngrok
+tensorflow
+keras
+opencv-python-headless
+requests  # Add this line
+
 absl-py==1.4.0
 accelerate==0.34.2
 accessible-pygments==0.0.5
