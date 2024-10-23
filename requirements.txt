@@ -1,0 +1,9 @@
+flask
+flask-cors
+deepforest
+torch
+Pillow
+tensorflow
+keras
+opencv-python-headless
+requests
