@@ -6,7 +6,7 @@ Pillow==10.4.0
 pyngrok==7.2.0
 tensorflow
 keras==3.4.1
-opencv-python-headless==4.10.0.84
+opencv-python-headless>=4.10.0.84
 requests==2.32.3
 
 # Other libraries
@@ -15,6 +15,6 @@ accelerate==0.34.2
 beautifulsoup4==4.12.3
 scikit-image==0.19.3
 scikit-learn==1.2.1
-numpy==1.23.0
+numpy>=1.23.5  # Adjusted for compatibility
 pandas==2.0.3
 pytest==7.3.1
